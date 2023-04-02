@@ -39,7 +39,7 @@ I would like to demonstrate my skills by inviting you to explore my **GitHub** p
 
 ## 💼🎒 My Portfolio Overview:
 
-I encourage you to explore my **machine learning** and **deep learning** projects to gain insight into my expertise. The links are provided below, along with detailed descriptions at the bottom of this website. My portfolio showcases a diverse and in-depth understanding of various areas, including **computer vision**, **natural language processing**, and more.
+Please take a moment to explore my machine learning and deep learning projects, which are linked below and have detailed descriptions provided. My portfolio exhibits a diverse and in-depth understanding of various areas, including __computer vision__,__image processing__, __natural language processing__, and more, serving as a testament to my extensive expertise.
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif" width = 1000 height = 400/>
 
