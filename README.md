@@ -46,3 +46,5 @@ Please take a moment to explore my machine learning and deep learning projects, 
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
+|  [Patched_based_defect_segmentation](https://github.com/Alirezanltv/Patch_based_defect_segmentation)|  [Car Prices Prediction](https://github.com/suhasmaddali/Car-Prices-Prediction)|
+| :-:| :-:| 
