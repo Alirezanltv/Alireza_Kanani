@@ -31,7 +31,7 @@ I have acquired a variety of skills in the field of data science and machine lea
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Text%20Generated.gif" />
 
-To showcase my skills, I invite you to explore my **GitHub** profile. It presents a range of programming languages I'm proficient in and highlights the commitment I have for my projects. By examining this overview, you can gain an understanding of the extent and depth of my expertise.
+I would like to demonstrate my skills by inviting you to explore my **GitHub** profile ...
 
 ```diff
 + The images are downloaded and used thanks to https://unsplash.com/ and https://giphy.com/ websites. 🙂
