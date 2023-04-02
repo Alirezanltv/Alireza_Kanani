@@ -43,3 +43,6 @@ Please take a moment to explore my machine learning and deep learning projects, 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif" width = 1000 height = 400/>
 
+
+<h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
+
