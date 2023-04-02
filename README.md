@@ -20,3 +20,24 @@ With over +5 of experience in machine learning, I have developed a strong skill 
 <h2>       </h2>
 
 ![](https://github.com/Alirezanltv/Gif_files/blob/main/geoffreyhinton1-2x.jpg)
+
+<h2>🪚🔧 My Skills 😀😀:</h2>
+My specialized skills:
+•	Machine learning algorithms
+•	Image processing
+•	Deep learning
+•	Neural networks
+•	Python
+•	Segmentation
+•	Classification
+•	Object detection/tracking/remote sensing
+•	Time-series prediction
+•	OCR
+•	Unsupervised learning
+•	Tensorflow
+•	Keras
+•	Pytorch
+•	Open-cv
+•	Data extraction/analytics
+•	Mathematics
+
