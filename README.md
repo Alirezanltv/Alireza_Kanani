@@ -8,5 +8,6 @@ My programming background is from my high school when I started programming in C
 <p align="left">
   
   <a "href" = "https://github.com/Alirezanltv/NLP_from_zero_to_intermediate"
-     <img alt = "https://dezyre.gumlet.io/images/blog/how-to-learn-nlp-from-scratch/image_88562057931633524561164.png?w=330&dpr=2.6"
+     <img src = "https://dezyre.gumlet.io/images/blog/how-to-learn-nlp-from-scratch/image_88562057931633524561164.png?w=330&dpr=2.6"
+  <p>
     
