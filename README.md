@@ -1,7 +1,8 @@
 # Alireza_Kanani
 
 # Wlecome to my Github page
-** ' I'm a machine learning engineer/Critical thinker' **
+
+**' I'm a machine learning engineer/Critical thinker' **
 
   
 My programming background is from my high school when I started programming in C and C++. Back in those days, I was a member of a Soccer 2D Simulation team. That time I got familiar with object-oriented programming, decision-making rules, and some of the intelligent algorithms and those things drove me to be a curious guy and I have been following my curiosities with programming in Python.
