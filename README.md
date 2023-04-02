@@ -1,6 +1,6 @@
 <h1 align = "center"><img src="https://github.com/Alirezanltv/Gif_files/blob/main/IMG_20221210_203059.jpg" width="150" />Hi there,welcome to my github page, I'm Alireza_Kanani 👋</h1>
 
-< I'm a machine learning engineer and also __Critical thinker__</h1>
+## I'm a machine learning engineer and also __Critical thinker__
 
 
 
