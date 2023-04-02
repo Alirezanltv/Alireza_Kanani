@@ -1,8 +1,7 @@
-
-
+<h1 align = "center"><img src="[https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif]" width="75" />Hi there, I'm Alireza_Kanani 👋</h1>
 # Wlecome to my Github page
 
-<h1 align = "center"><img src="[https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif](https://avatars.githubusercontent.com/u/40850908?v=4)" width="75" />Hi there, I'm Alireza_Kanani 👋</h1>
+
 
 **' I'm a machine learning engineer/Critical thinker' **
 
