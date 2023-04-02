@@ -17,5 +17,5 @@ My programming background is from my high school when I started programming in C
 I'm looking for a PhD posiotion in machine learning fields. In my M.Sc. studies, due to my extreme passion for learning about computer vision and combining
 the developments of this area with the study of different defects in industrial elements, I took courses such as “Neural Networks”, “Pattern Recognition”, “Estimation Theory”, “Information Theory”, and “Image Processing”.
 With over +5 of experience in machine learning, I have developed a strong skill set in using machine learning techniques to solve complex and real problems. My extensive experience in Deep Learning, Pattern Recognition, Image Processing, Domain Adaptation, and more has allowed me to successfully complete projects such as unsupervised learning, object detection, classification, localization, segmentation, remote sensing, CNN, Faster-RCNN, YOLO, OCR,  progressive image transmission, time-series prediction data like, EEG,ECG , EMG, and feature fusion.
-<>
+<h2>       </h2>
 ![](https://github.com/Alirezanltv/Gif_files/blob/main/geoffreyhinton1-2x.jpg)
