@@ -48,7 +48,7 @@ Please take a moment to explore my machine learning and deep learning projects, 
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-|  [Patch_based_defect_detection](https://github.com/Alirezanltv/Patch_based_defect_segmentation)|  [Unsupervised_defect_detection]()|
+|  [Patch_based_defect_detection](https://github.com/Alirezanltv/Patch_based_defect_segmentation)|  [Unsupervised_defect_detection](https://github.com/Alirezanltv/Unsupervised_crack_detection)|
 | :-:| :-:| 
 | [<img src = "https://github.com/Alirezanltv/Gif_files/blob/main/machine-vision-defect-detection-activities-1.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/Patch_based_defect_segmentation)| [<img src="https://github.com/Alirezanltv/Gif_files/blob/main/unsupervised_defect_detection.png" width = 500 height = 300/>](https://github.com/Alirezanltv/Unsupervised_crack_detection)
 
