@@ -58,3 +58,4 @@ Please take a moment to explore my machine learning and deep learning projects, 
 | [<img src = "https://github.com/Alirezanltv/the_flowchart_of_object_detection_paper.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/compression_based_on_region_of_interests)| [<img src = "https://github.com/Alirezanltv/Gif_files/zed2-menu.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/SemiHumanVision)
 
 
+
