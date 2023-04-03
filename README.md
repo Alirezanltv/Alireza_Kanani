@@ -55,7 +55,7 @@ Please take a moment to explore my machine learning and deep learning projects, 
 
 |  [Progressive image transmission](https://github.com/Alirezanltv/compression_based_on_region_of_interests)|  [Obeject_detection &Object measurment by Z2 camera](https://github.com/Alirezanltv/SemiHumanVision)|
 | :-:| :-:| 
-| [<img src = "https://github.com/Alirezanltv/blob/main/the_flowchart_of_object_detection_paper.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/compression_based_on_region_of_interests)| [<img src = "https://github.com/Alirezanltv/Gif_files/blob/main/zed2-menu.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/SemiHumanVision)
+| [<img src = "https://github.com/Alirezanltv/Gif_files/blob/main/the_flowchart_of_object_detection_paper.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/compression_based_on_region_of_interests)| [<img src = "https://github.com/Alirezanltv/Gif_files/blob/main/zed2-menu.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/SemiHumanVision)
 
 
 
