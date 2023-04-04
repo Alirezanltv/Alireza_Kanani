@@ -53,7 +53,7 @@ Please take a moment to explore my machine learning and deep learning projects, 
 | [<img src = "https://github.com/Alirezanltv/Gif_files/blob/main/machine-vision-defect-detection-activities-1.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/Patch_based_defect_segmentation)| [<img src="https://github.com/Alirezanltv/Gif_files/blob/main/unsupervised_defect_detection.png" width = 500 height = 300/>](https://github.com/Alirezanltv/Unsupervised_crack_detection)
 
 
-|  [Progressive image transmission](https://github.com/Alirezanltv/compression_based_on_region_of_interests)|  [Obeject_detection &Distance object measurement](https://github.com/Alirezanltv/SemiHumanVision)|
+|  [Progressive image transmission](https://github.com/Alirezanltv/compression_based_on_region_of_interests)|  [Object_detection &Distance object measurement](https://github.com/Alirezanltv/SemiHumanVision)|
 | :-:| :-:| 
 | [<img src = "https://github.com/Alirezanltv/Gif_files/blob/main/the_flowchart_of_object_detection_paper.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/compression_based_on_region_of_interests)| [<img src = "https://github.com/Alirezanltv/Gif_files/blob/main/zed2-menu.jpg" width = 500 height = 300/>](https://github.com/Alirezanltv/SemiHumanVision)
 
