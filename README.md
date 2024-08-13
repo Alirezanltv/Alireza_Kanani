@@ -59,18 +59,6 @@ Please take a moment to explore my machine learning and deep learning projects, 
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirecting...</title>
-    <meta http-equiv="refresh" content="0; url=https://github.com/Alirezanltv/Alirezanltv.github.io/edit/main/index.html">
-</head>
-<body>
-    <p>If you are not redirected automatically, follow this <a href="https://github.com/Alirezanltv/Alirezanltv.github.io/edit/main/index.html">link</a>.</p>
-</body>
-</html>
 
 
 
